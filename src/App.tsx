@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function User() {
   return (
     <div className="App">
     const sentence = "Hello my friends!"
@@ -13,4 +13,4 @@ function App() {
   );
 }
 
-export default App;
+export default User;
